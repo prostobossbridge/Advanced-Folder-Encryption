@@ -198,4 +198,4 @@ This repository serves as the official landing page for Advanced Folder Encrypti
 **Get the most recent version of Advanced Folder Encryption today!**
 
 ---
-**Last updated:** 2026-11-10 20:16:58 UTC
+**Last updated:** 2026-11-11 01:04:05 UTC
